@@ -1,0 +1,8 @@
+#container {
+	background: #CCCCCC;
+	color: #666;
+	font: 12px/18px "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+	margin: 20px auto 40px auto;
+	padding: 40px;
+	width: 300px;
+}
